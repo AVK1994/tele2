@@ -1,7 +1,7 @@
-public class structure {
+public class Tariff {
     String id;
-    String Name;
-    String Url;
+    String name;
+    String url;
     int freeMinutes;
     String unlimitedMinutesForTele2;
     int freeGbInternet;
